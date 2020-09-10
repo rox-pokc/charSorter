@@ -1,0 +1,6 @@
+{
+    "name": "mariakvashchuk/char-sorter",
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    }
+}
